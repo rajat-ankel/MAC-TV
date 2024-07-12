@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:0,IN| SONY SAB (BK)
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=546170&extension=ts&play_token=hndaTE3sky
+#EXTINF:0,HINDI| STAR PLUS HD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=155971&extension=ts&play_token=cyOnVJuv9h
+#EXTINF:0,HINDI| STAR BHARAT FHD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=156173&extension=ts&play_token=t0DA9SoGwe
+#EXTINF:0,HINDI| SONY TV
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=280777&extension=ts&play_token=1Jw1c8ixme
+#EXTINF:0,HINDI| SONY SAB HD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=156014&extension=ts&play_token=EbpKfavlf7
+#EXTINF:0,HINDI| SONY PAL
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=156101&extension=ts&play_token=dW3YiiFhAq
+#EXTINF:0,HINDI| SONY YAY
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=156089&extension=ts&play_token=g8ELS6Sizr
+#EXTINF:0,HINDI| BBC EARTH HD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=156012&extension=ts&play_token=zkiQbXQR0f
+#EXTINF:0,HINDI| NAT GEO FHD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=156011&extension=ts&play_token=b2Kmxdfjm1
+#EXTINF:0,HINDI| NAT GEO WILD FHD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=155989&extension=ts&play_token=KJ2yrGq6uj
+#EXTINF:0,HINDI| SONY MAX FHD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=156013&extension=ts&play_token=ClARAXo3Qv
+#EXTINF:0,HINDI| SONY MAX 2 HD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=280780&extension=ts&play_token=9YaSCMKH3r
+#EXTINF:0,HINDI| STAR GOLD FHD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=155969&extension=ts&play_token=y6tGfVDLgl
+#EXTINF:0,HINDI| STAR GOLD 2 FHD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=1112132&extension=ts&play_token=HnBIOpWMC2
+#EXTINF:0,HINDI| STAR GOLD ROMANCE
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=156033&extension=ts&play_token=urNDOcSEpV
+#EXTINF:0,HINDI| STAR GOLD SELECT FHD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=155970&extension=ts&play_token=CQ9Sh13Ss8
+#EXTINF:0,ENGLISH| SONY PIX FHD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=1116481&extension=ts&play_token=4NbfbqP58v
+#EXTINF:0,HINDI| DISNEY SD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=156000&extension=ts&play_token=ksoP2i8KVp
+#EXTINF:0,TELUGU| SUPER HUNGAMA
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=1097624&extension=ts&play_token=vCph9ngQwk
+#EXTINF:0,TAMIL| HUNGAMA
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=1097666&extension=ts&play_token=fvfCKFZt8p
+#EXTINF:0,TAMIL| HUNGAMA KIDS
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=1097664&extension=ts&play_token=sRHFnSf30J
+#EXTINF:0,EN| ANIME TV
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=1569746&extension=ts&play_token=9Z4qUyy2g1
+#EXTINF:0,SPORTS| STAR SPORTS HINDI 1 FHD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=1114582&extension=ts&play_token=XHF7Qrxce8
+#EXTINF:0,SPORTS| STAR SPORTS 2 FHD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=1114581&extension=ts&play_token=7DyqQpV00g
+#EXTINF:0,SPORTS| STAR SPORTS SELECT 1 FHD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=1114583&extension=ts&play_token=4Q636Gven8
+#EXTINF:0,SPORTS| TEN 1 FHD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=1114576&extension=ts&play_token=L0TMjhbpBj
+#EXTINF:0,SPORTS| TEN 2 FHD
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=1114577&extension=ts&play_token=BO5GwmdrWc
+#EXTINF:0,NL| FASHION TV 4K
+http://185.243.7.154:80/play/live.php?mac=00:1A:79:BD:60:0F&stream=1283290&extension=ts&play_token=TkIBoVufzZ
