@@ -1,5 +1,10 @@
 # IPTV Playlist Generator
 
+DEMO
+
+https://github.com/user-attachments/assets/69585f2e-00b4-474b-9fca-6686e7540eef
+
+
 This project automates the process of generating IPTV playlists (`playlist.txt` and `main.txt`) by fetching channel data from an IPTV server.
 
 ## Table of Contents
